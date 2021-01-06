@@ -1,0 +1,14 @@
+version: "3"
+services:
+  simple-instagram-bot:
+    build: .
+    restart: always
+    volumes:
+      - ./app:/app
+    logging:
+      driver: "json-file"
+      options:
+          max-size: "2m"
+          max-file: "10"
+    environment:
+      - API_TOKEN=<BOT_TOKEN>

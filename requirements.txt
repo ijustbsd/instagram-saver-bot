@@ -1,3 +1,3 @@
 aiogram
 emoji
-instalooter
+instalooter==2.4.4

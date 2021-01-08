@@ -1,6 +1,6 @@
 # instagram-saver-bot
 
-### This telegram bot can save photos, videos and post descriptions from Instagram.
+This telegram bot can save photos, videos and post descriptions from Instagram.
 
 Link: [@simple_instagram_bot](https://t.me/simple_instagram_bot)
 
